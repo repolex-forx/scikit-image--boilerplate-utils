@@ -1,0 +1,23 @@
+{
+  "manifest_version": "1.0",
+  "org": "scikit-image",
+  "repo": "boilerplate-utils",
+  "versions": [
+    {
+      "commit": "61f29f6feeb5442c6038842a893f991f2d7984af",
+      "parsed_at": "2026-10-21T02:59:27.911727+00:00",
+      "filetree": "filetree/61f29f6feeb5442c6038842a893f991f2d7984af.nq.gz",
+      "blobs": [
+        "blob/ba4c4b974bf3693675f3d355d27fe9bbd763352c.nq.gz",
+        "blob/dabec14f5c3e3058f4ebc89dcc746f883f8bef6e.nq.gz",
+        "blob/945b116ad3c50d6d806918539557f3d598810c6f.nq.gz",
+        "blob/dbb7dd6cd253bf3a7ef080b94e141ce54c818e17.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
