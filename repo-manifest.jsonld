@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/scikit-image/boilerplate-utils/commit/61f29f6feeb5442c6038842a893f991f2d7984af",
       "git:hexsha": "61f29f6feeb5442c6038842a893f991f2d7984af",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T03:01:42.063455+00:00"
     }
   ]
 }
