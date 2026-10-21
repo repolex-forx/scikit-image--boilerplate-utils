@@ -1,0 +1,11 @@
+{
+  "org": "scikit-image",
+  "repo": "boilerplate-utils",
+  "versions": [
+    {
+      "commit": "61f29f6feeb5442c6038842a893f991f2d7984af",
+      "tag": "",
+      "parsed_at": "2026-10-21T03:01:42.063920+00:00"
+    }
+  ]
+}
